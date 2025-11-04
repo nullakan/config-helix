@@ -1,0 +1,21 @@
+#theme = "carbon"
+#theme = "dracula_at_night"
+theme = "nyxvamp-obsidian"
+#theme = "onedarker"
+#theme = "tokyonight"
+#theme = "vintage"
+
+[editor]
+cursorline = true
+line-number = "relative"
+mouse = false
+rulers = [80]
+
+[editor.cursor-shape]
+insert = "bar"
+normal = "block"
+select = "underline"
+
+[editor.file-picker]
+hidden = false
+
