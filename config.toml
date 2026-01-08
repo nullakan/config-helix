@@ -1,8 +1,10 @@
-#theme = "carbon"
-#theme = "dracula_at_night"
-theme = "nyxvamp-obsidian"
-#theme = "onedarker"
-#theme = "tokyonight"
+theme = "ashen"
+#theme = "horizon-dark"
+#theme = "mellow"
+#theme = "nyxvamp-obsidian"
+#theme = "rasmus"
+#theme = "sidra"
+#theme = "starlight"
 #theme = "vintage"
 
 [editor]
