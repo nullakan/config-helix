@@ -12,6 +12,7 @@ cursorline = true
 line-number = "relative"
 mouse = false
 rulers = [80]
+true-color = true
 
 [editor.cursor-shape]
 insert = "bar"
