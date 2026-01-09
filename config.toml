@@ -1,9 +1,9 @@
-#theme = "autumn_night"
+theme = "autumn_night"
 #theme = "base16_default_dark"
 #theme = "darcula-solid"
 #theme = "gruber-darker"
 #theme = "mellow"
-theme = "rasmus"
+#theme = "rasmus"
 
 [editor]
 cursorline = true
