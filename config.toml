@@ -1,11 +1,9 @@
-theme = "ashen"
-#theme = "horizon-dark"
+#theme = "autumn_night"
+#theme = "base16_default_dark"
+#theme = "darcula-solid"
+#theme = "gruber-darker"
 #theme = "mellow"
-#theme = "nyxvamp-obsidian"
-#theme = "rasmus"
-#theme = "sidra"
-#theme = "starlight"
-#theme = "vintage"
+theme = "rasmus"
 
 [editor]
 cursorline = true
